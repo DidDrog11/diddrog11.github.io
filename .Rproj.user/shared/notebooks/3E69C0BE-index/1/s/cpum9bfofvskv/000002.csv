@@ -1,0 +1,5 @@
+"0","flextable("
+"0","  table_2 %>%"
+"0","  filter(data_on_testing == TRUE) %>%"
+"0","  tail()"
+"0",")"

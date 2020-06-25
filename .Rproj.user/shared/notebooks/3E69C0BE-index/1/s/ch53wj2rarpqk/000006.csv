@@ -1,0 +1,8 @@
+"0",""
+"0","a <- flextable(a) %>%"
+"0","    set_caption(caption = 'Characteristics of included studies') %>%"
+"0","  colformat_num(col_keys = numeric_columns, digits = 2, na_str = '-', big.mark = ',') %>%"
+"0","  colformat_num(col_keys = 'Sample size', digits = 0, na_str = '-', big.mark = ',') %>%"
+"0","  set_table_properties(width = 1, layout = 'autofit')"
+"0",""
+"0","save_as_docx(a, path = here('data_clean', 'Table_1.docx'))"

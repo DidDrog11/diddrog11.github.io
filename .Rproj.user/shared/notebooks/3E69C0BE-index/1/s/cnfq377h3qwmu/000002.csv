@@ -1,0 +1,5 @@
+"0","flextable("
+"0","  table_5 %>%"
+"0","  filter(data_on_deaths == TRUE) %>%"
+"0","  tail()"
+"0",")"

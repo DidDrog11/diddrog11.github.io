@@ -1,0 +1,4 @@
+"0",""
+"0","a <- flextable(country) %>%"
+"0","  set_table_properties(width = 0.5, layout = 'autofit')"
+"0","a"

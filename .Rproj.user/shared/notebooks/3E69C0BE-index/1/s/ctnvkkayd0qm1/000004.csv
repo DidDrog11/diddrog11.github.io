@@ -1,0 +1,4 @@
+"0",""
+"0","b <- flextable(b) %>%"
+"0","  set_table_properties(width = 1, layout = 'autofit') %>%"
+"0","  set_caption(caption = 'Studies with incomplete smoking status')"

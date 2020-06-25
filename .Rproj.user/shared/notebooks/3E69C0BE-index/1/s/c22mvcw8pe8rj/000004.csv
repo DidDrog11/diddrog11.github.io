@@ -1,0 +1,6 @@
+"0",""
+"0","a <- flextable(a)%>%"
+"0","  set_caption(a, caption = 'All studies included in data extraction') %>%"
+"0","  set_table_properties(width = 1, layout = 'autofit')"
+"0",""
+"0","save_as_docx(a, path = here('data_clean', 'all_studies.docx'))"
